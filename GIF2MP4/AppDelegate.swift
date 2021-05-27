@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CKDDecrypt
+//  GIF2MP4
 //
 //  Created by Chen JmoVxia on 2020/9/3.
 //  Copyright © 2020 Chen JmoVxia. All rights reserved.

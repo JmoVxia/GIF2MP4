@@ -1,8 +1,9 @@
 //
 //  GIF2MP4.swift
+//  GIF2MP4
 //
-//  Created by PowHu Yang on 2020/4/24.
-//  Copyright © 2020 PowHu Yang. All rights reserved.
+//  Created by Chen JmoVxia on 2020/9/3.
+//  Copyright © 2020 Chen JmoVxia. All rights reserved.
 //
 
 /* How to use
