@@ -2,7 +2,7 @@
 
 ## 说明
 
-这是一个MAC版本的工具类APP，用于将`gif`转化为`MP4`，代码支持`iOS`和`macos`
+这是一个MAC版本的工具类APP，用于将`gif`转化为`MP4`，代码支持`iOS`和`macOS`
 
 ## 步骤
 
