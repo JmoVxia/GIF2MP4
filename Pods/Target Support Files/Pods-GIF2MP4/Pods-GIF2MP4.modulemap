@@ -1,0 +1,6 @@
+module Pods_GIF2MP4 {
+  umbrella header "Pods-GIF2MP4-umbrella.h"
+
+  export *
+  module * { export * }
+}
