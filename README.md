@@ -2,7 +2,7 @@
 
 ## 说明
 
-这是一个MAC版本的工具类APP，用于将`gif`转化为`MP4`，代码支持`iOS`和`macOS`
+这是一个MAC版本的工具类APP，用于将`GIF`转化为`MP4`，代码支持`iOS`和`macOS`
 
 ## 步骤
 
@@ -15,3 +15,4 @@
 
 1. **APP右键-显示简介-覆盖恶意软件保护 打勾**
 2. **打开终端 `codesign -f -s - --deep /Applications/appname.app`**
+
